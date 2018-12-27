@@ -1,2 +1,2 @@
 # GoF-DesignPatterns-Revisited
-Revisiting the classic Gang of Four's Software Design Patterns, all in one codebase
+Revisiting the classic Gang of Four's Software Design Patterns; all of them in one codebase.
